@@ -775,7 +775,7 @@ Lists companies known to use the ROS Manipulation stack (MoveIt).
 | [UFACTORY](http://www.ufactory.cc) | The company uses the ROS Manipulation stack (MoveIt) in the xArm 5/ xArm 6/xArm 7 (see [`xArm-Developer/xarm_ros`](https://github.com/xArm-Developer/xarm_ros)). | 2013 |
 | [Unibap AB](https://unibap.com) | The Manipulation stack is utilized by Unibap AB to perform the motion planning and control of industrial robots (see [`Unibap/moveit`](https://github.com/Unibap/moveit)). | 2013 |
 | [Universal Robots](https://www.universal-robots.com/) | The company uses the ROS Manipulation stack (MoveIt) in the UR3/UR5/UR10 (see [`ros-industrial/universal_robot`](https://github.com/ros-industrial/universal_robot)). | 2005 |
-| [Yaskawa Motoman](https://www.motoman.com) | The company uses the ROS Manipulation stack (MoveIt) in the MH12/MH50/MH12/SIA5D/SIA20/SIA10D (see [`ros-industrial/motoman_experimental`](https://github.com/ros-industrial/motoman_experimental)). | 1989 | 
+| [Yaskawa Motoman](https://www.motoman.com) | The company uses the ROS Manipulation stack (MoveIt) in the MH12/MH50/MH12/SIA5D/SIA20/SIA10D (see [`ros-industrial/motoman_experimental`](https://github.com/ros-industrial/motoman_experimental)). | 1989 | __Japan__, USA, Mexico, Canada, Brazil, Germany, Czech Republic, Denmark, Finland, France, Hungary, Israel, Italy, The Netherlands, Poland, Portugal, Slovenia, South Africa, Spain, Sweden, Turkey, UK, Australia, China, India, Malaysia, Singapore, South Korea, Taiwan, Thailand |
 <!-- !end-manipulation! -->
 
 
